@@ -1,0 +1,1 @@
+An Item API is used to perform CRUD operations on a single resource. A common use case for an Item API is to manage a user profile, where the API provides the ability to create, read, update, and delete a user's profile information.

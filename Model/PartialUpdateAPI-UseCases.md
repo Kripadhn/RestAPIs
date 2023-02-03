@@ -1,0 +1,1 @@
+A Partial Update API is used to update specific attributes of a resource, rather than the entire resource. A common use case for a Partial Update API is to allow users to update their profile information, such as their address or phone number, without having to retrieve the entire profile and send it back.

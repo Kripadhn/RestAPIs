@@ -1,0 +1,1 @@
+A Batch API is used to perform multiple operations in a single request. A common use case for a Batch API is to allow a client to perform multiple related operations in a single request, such as retrieving multiple resources or updating multiple resources at once. This can improve performance and simplify the client implementation.
